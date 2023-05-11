@@ -1,7 +1,9 @@
 # image
 Image generation
 This is an image generation AI using stable diffusion. There are still some incomplete features. Please note that generating human images may not be satisfactory, so it is recommended to focus on landscape images, etc.
+
 -はじめにGoogleコラボの1番下のreadmeを追加でお読みください
+
 (これはstable diffusionを用いた画像生成Aiです。まだ未完成の機能もあります。なお、人物生成は満足にできないので、風景画などをメインに作ることをお勧めします)-=
 ![20230424_151947](https://github.com/suzukimain/image/assets/131413573/c9e45d4a-3e65-4d00-9958-15f5713884a0)
 ![20230425_074924](https://github.com/suzukimain/image/assets/131413573/4cf3410a-99c5-4247-87eb-dd19535eb4e2)
