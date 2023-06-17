@@ -22,6 +22,10 @@
 
 重みを再配布し、モデルを商用またはサービスとして使用することができます。その場合、ライセンスに記載されているものと同じ制限を含めて、The CreativeML OpenRAIL Licenseのコピーをすべての利用者と共有する必要があることに注意してください。
 
+ライセンスの原文です
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+
 >生成した画像の例です
 
 
