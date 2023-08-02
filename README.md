@@ -1,4 +1,6 @@
-# Image Generation
+# diffusers_in_Colab:
+
+This project is running diffusers in colab.
 
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
@@ -34,6 +36,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 * モデル作成者は、利用者が生成した出力に対していかなる権利も主張せず、それらを利用者は自由に使用することができます。また、Licenseの規定に違反していない使用について、利用者は説明責任を負います。
 
 * 重みを再配布し、モデルを商用またはサービスとして使用することができます。その場合、ライセンスに記載されているものと同じ制限を含めて、[The CreativeML OpenRAIL License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)のコピーをすべての利用者と共有する必要があることに注意してください。
+
 -重みというのはモデルが保存されているファイルです。
 
 
@@ -41,4 +44,10 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 #### 謝辞<a name = "謝辞"></a>
 
 本画像生成ノートブックの作成にあたり、オープンソースのリソースやフリーのツールを使用させていただきました。個人的な利用でしたが、これらのリソースやツールがあったからこそ、本プロジェクトを実現することができました。 この場を借りて、オープンソースのコミュニティや、フリーのツールを提供してくださった方々に感謝の意を表します。素晴らしいツールや技術を提供してくださり、本プロジェクトを支援してくださったことに心から感謝いたします。
+
+###  上に飛びます<a name = "Image Generation"></a>
+
+
+
+
 
