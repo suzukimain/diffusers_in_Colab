@@ -1,18 +1,14 @@
 # Image Generation
 
-## ライセンス <a name = "License"></a>
+[![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
+https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
-* このモデルは、趣味で作成したものであり、商用利用などは意図していません。
-* Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
-* [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
+>目次
++ [生成した画像の例](#生成した画像の例)
++ [License](#license)
+     + [ライセンスの要約](#ライセンスの要約)
++ [謝辞](#謝辞)
 
-###  Licenseの要約<a name = "License"></a>
-
-* モデルを使用して、違法または有害な出力またはコンテンツを意図的に作成または共有することはできません。
-
-* モデル作成者は、利用者が生成した出力に対していかなる権利も主張せず、それらを利用者は自由に使用することができます。また、Licenseの規定に違反していない使用について、利用者は説明責任を負います。
-
-* 重みを再配布し、モデルを商用またはサービスとして使用することができます。その場合、ライセンスに記載されているものと同じ制限を含めて、[The CreativeML OpenRAIL License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)のコピーをすべての利用者と共有する必要があることに注意してください。
 
 ###  生成した画像の例<a name = "画像の例"></a>
 
@@ -25,11 +21,24 @@
 ![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
 ![20230425_074710](https://github.com/suzukimain/image/assets/131413573/d5d67630-e67d-4bff-ab4c-6771e0f01079)
 
+## ライセンス <a name = "License"></a>
+
+* このモデルは、趣味で作成したものであり、商用利用などは意図していません。
+* Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
+* [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
+
+###  Licenseの要約<a name = "ライセンスの要約"></a>
+
+* モデルを使用して、違法または有害な出力またはコンテンツを意図的に作成または共有することはできません。
+
+* モデル作成者は、利用者が生成した出力に対していかなる権利も主張せず、それらを利用者は自由に使用することができます。また、Licenseの規定に違反していない使用について、利用者は説明責任を負います。
+
+* 重みを再配布し、モデルを商用またはサービスとして使用することができます。その場合、ライセンスに記載されているものと同じ制限を含めて、[The CreativeML OpenRAIL License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)のコピーをすべての利用者と共有する必要があることに注意してください。
+-重みというのはモデルが保存されているファイルです。
 
 
 
-
-謝辞
+#### 謝辞<a name = "謝辞"></a>
 
 本画像生成ノートブックの作成にあたり、オープンソースのリソースやフリーのツールを使用させていただきました。個人的な利用でしたが、これらのリソースやツールがあったからこそ、本プロジェクトを実現することができました。 この場を借りて、オープンソースのコミュニティや、フリーのツールを提供してくださった方々に感謝の意を表します。素晴らしいツールや技術を提供してくださり、本プロジェクトを支援してくださったことに心から感謝いたします。
 
