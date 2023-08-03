@@ -9,6 +9,8 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 + [生成した画像の例](#生成した画像の例)
 + [License](#license)
      + [ライセンスの要約](#ライセンスの要約)
++ [How to use](#How_to_use)
+     + [Image_generation_methods](#Image_generation_methods) 
 + [謝辞](#謝辞)
 
 
@@ -23,7 +25,12 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 ![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
 ![20230425_074710](https://github.com/suzukimain/image/assets/131413573/d5d67630-e67d-4bff-ab4c-6771e0f01079)
 
-## ライセンス <a name = "License"></a>
+
+###  Image generation methods<a name = "Image_generation_methods"></a>
+![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/d83a98bc-d3db-462d-8bde-9a142d9c369c)
+![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/b728aac2-a2b3-468d-991e-6f37cfa6aef7)
+
+## ライセンス<a name = "License"></a>
 
 * このモデルは、趣味で作成したものであり、商用利用などは意図していません。
 * Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
