@@ -26,7 +26,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 ![20230425_074710](https://github.com/suzukimain/image/assets/131413573/d5d67630-e67d-4bff-ab4c-6771e0f01079)
 
 
-###  Image generation methods<a name = "Image_generation_methods"></a>
+###  Image_generation_methods<a name = "Image_generation_methods"></a>
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/d83a98bc-d3db-462d-8bde-9a142d9c369c)
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/b728aac2-a2b3-468d-991e-6f37cfa6aef7)
 
