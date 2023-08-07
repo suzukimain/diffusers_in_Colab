@@ -1,17 +1,28 @@
 # diffusers_in_Colab:
 
-This project is running diffusers in colab.
+The project aims to run diffusers in a collaborative way.
+
 
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 >目次
++ [プロジェクトの説明](#プロジェクトの説明)
 + [生成した画像の例](#生成した画像の例)
 + [License](#license)
      + [ライセンスの要約](#ライセンスの要約)
 + [How to use](#How_to_use)
      + [Image_generation_methods](#Image_generation_methods) 
 + [謝辞](#謝辞)
+
+
+####  プロジェクトの説明<a name = "プロジェクトの説明"></a>
+このプロジェクトはGoogleコラボでdiffusersを動かすことを目的としています。
+
+(The project aims to run diffusers in a collaborative way.)
+
+
+
 
 
 ###  生成した画像の例<a name = "画像の例"></a>
@@ -51,10 +62,6 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 #### 謝辞<a name = "謝辞"></a>
 
 本画像生成ノートブックの作成にあたり、オープンソースのリソースやフリーのツールを使用させていただきました。個人的な利用でしたが、これらのリソースやツールがあったからこそ、本プロジェクトを実現することができました。 この場を借りて、オープンソースのコミュニティや、フリーのツールを提供してくださった方々に感謝の意を表します。素晴らしいツールや技術を提供してくださり、本プロジェクトを支援してくださったことに心から感謝いたします。
-
-###  上に飛びます<a name = "Image Generation"></a>
-
-
 
 
 
