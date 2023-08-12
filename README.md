@@ -44,8 +44,8 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/b728aac2-a2b3-468d-991e-6f37cfa6aef7)
 
 ## ライセンス<a name = "License"></a>
-
-* このモデルは、趣味で作成したものであり、商用利用などは意図していません。
+* [LICENSE](LICENSE)をお読みください
+* このノートブックは、趣味で作成したものであり、商用利用などは意図していません。
 * Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
 * [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
 
