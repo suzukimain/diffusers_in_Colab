@@ -15,10 +15,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 #####  使用方法<a name = "使用方法"></a>
 
-[![Open In Colab](https://colab.research.google.com/?hl=ja)](
-https://colab.research.google.com/github/suzukimain/diffusers_in_Colab/blob/main/Image_generation_ver_Bete.ipynb)
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzukimain/diffusers_in_Colab/blob/main/Image_generation_ver_Bete.ipynb)
 
 ####  プロジェクトの説明<a name = "プロジェクトの説明"></a>
 このプロジェクトはGoogleコラボでdiffusersを動かすことを目的としています。
