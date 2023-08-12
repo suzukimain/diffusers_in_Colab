@@ -14,7 +14,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 + [謝辞](#謝辞)
 
 #####  使用方法<a name = "使用方法"></a>
-
+次のボタンをタップしてノートブックを開いてください。
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzukimain/diffusers_in_Colab/blob/main/Image_generation_ver_Bete.ipynb)
 
 ####  プロジェクトの説明<a name = "プロジェクトの説明"></a>
