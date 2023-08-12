@@ -1,4 +1,4 @@
-# diffusers_in_Colab:
+# diffusers_in_Colab
 
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
@@ -7,17 +7,18 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 + [使用方法](#使用方法)
 + [プロジェクトの説明](#プロジェクトの説明)
 + [生成した画像の例](#生成した画像の例)
-+ [License](#license)
++ [License](#ライセンス)
      + [ライセンスの要約](#ライセンスの要約)
-+ [How to use](#How_to_use)
-     + [Image_generation_methods](#Image_generation_methods) 
++ [Image_generation_methods](#Image_generation_methods) 
 + [謝辞](#謝辞)
 
-#####  使用方法<a name = "使用方法"></a>
+##  使用方法<a name = "使用方法"></a>
 次のボタンをタップしてノートブックを開いてください。
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzukimain/diffusers_in_Colab/blob/main/Image_generation_ver_Bete.ipynb)
 
-####  プロジェクトの説明<a name = "プロジェクトの説明"></a>
+
+##  プロジェクトの説明<a name = "プロジェクトの説明"></a>
 このプロジェクトはGoogleコラボでdiffusersを動かすことを目的としています。
 
 (The project aims to run diffusers in a collaborative way.)
@@ -26,7 +27,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 
 
-###  生成した画像の例<a name = "画像の例"></a>
+##  生成した画像の例<a name = "画像の例"></a>
 
 ![20230424_151947](https://github.com/suzukimain/image/assets/131413573/c9e45d4a-3e65-4d00-9958-15f5713884a0)
 ![20230425_074924](https://github.com/suzukimain/image/assets/131413573/4cf3410a-99c5-4247-87eb-dd19535eb4e2)
@@ -38,7 +39,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 ![20230425_074710](https://github.com/suzukimain/image/assets/131413573/d5d67630-e67d-4bff-ab4c-6771e0f01079)
 
 
-###  Image_generation_methods<a name = "Image_generation_methods"></a>
+##  Image_generation_methods<a name = "Image_generation_methods"></a>
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/d83a98bc-d3db-462d-8bde-9a142d9c369c)
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/b728aac2-a2b3-468d-991e-6f37cfa6aef7)
 
@@ -48,7 +49,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 * Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
 * [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
 
-###  The_CreativeML_OpenRAIL_Licenseの要約<a name = "ライセンスの要約"></a>
+##  The_CreativeML_OpenRAIL_Licenseの要約<a name = "ライセンスの要約"></a>
 
 * モデルを使用して、違法または有害な出力またはコンテンツを意図的に作成または共有することはできません。
 
@@ -60,7 +61,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 
 
-#### 謝辞<a name = "謝辞"></a>
+## 謝辞<a name = "謝辞"></a>
 
 本画像生成ノートブックの作成にあたり、オープンソースのリソースやフリーのツールを使用させていただきました。個人的な利用でしたが、これらのリソースやツールがあったからこそ、本プロジェクトを実現することができました。 この場を借りて、オープンソースのコミュニティや、フリーのツールを提供してくださった方々に感謝の意を表します。素晴らしいツールや技術を提供してくださり、本プロジェクトを支援してくださったことに心から感謝いたします。
 
