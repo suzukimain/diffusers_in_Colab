@@ -1,12 +1,10 @@
 # diffusers_in_Colab:
 
-The project aims to run diffusers in a collaborative way.
-
-
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 >目次
++ [使用方法](#使用方法)
 + [プロジェクトの説明](#プロジェクトの説明)
 + [生成した画像の例](#生成した画像の例)
 + [License](#license)
@@ -14,6 +12,12 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 + [How to use](#How_to_use)
      + [Image_generation_methods](#Image_generation_methods) 
 + [謝辞](#謝辞)
+
+#####  使用方法<a name = "使用方法"></a>
+
+[![Open In Colab](https://colab.research.google.com/?hl=ja)](
+https://colab.research.google.com/github/suzukimain/diffusers_in_Colab/blob/main/Image_generation_ver_Bete.ipynb)
+
 
 
 ####  プロジェクトの説明<a name = "プロジェクトの説明"></a>
@@ -47,7 +51,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 * Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
 * [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
 
-###  Licenseの要約<a name = "ライセンスの要約"></a>
+###  The_CreativeML_OpenRAIL_Licenseの要約<a name = "ライセンスの要約"></a>
 
 * モデルを使用して、違法または有害な出力またはコンテンツを意図的に作成または共有することはできません。
 
