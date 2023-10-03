@@ -19,13 +19,10 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 
 ##  プロジェクトの説明<a name = "プロジェクトの説明"></a>
-このプロジェクトはGoogleコラボでdiffusersを動かすことを目的としています。
+* GoogleColabでdiffusersを動かすこと
+* 個人的なプログラミングの学習
 
-(The project aims to run diffusers in a collaborative way.)
-
-
-
-
+上記の2点を目的としています。
 
 ##  生成した画像の例<a name = "画像の例"></a>
 
@@ -48,6 +45,10 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 * このノートブックは、趣味で作成したものであり、商用利用などは意図していません。
 * Stable Diffusion-Ver2.1やその他の規約がある場合は、それらも確認することを強くお勧めします。
 * [The_CreativeML_OpenRAIL_License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)による規定を遵守する必要があります。
+* 商用利用について『CreativeML Open RAIL-M』のLicense上、一部例外を除き、制限することが本来できない為、
+**表記上OKとしているだけであり、積極的な推奨は行っておらず、またそれにより何らかの問題が生じても当方は一切責任を持ちません。**
+その点、ご留意いただくようお願いいたします。
+
 
 ##  The_CreativeML_OpenRAIL_Licenseの要約<a name = "ライセンスの要約"></a>
 
@@ -57,7 +58,7 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 * 重みを再配布し、モデルを商用またはサービスとして使用することができます。その場合、ライセンスに記載されているものと同じ制限を含めて、[The CreativeML OpenRAIL License](https://huggingface.co/spaces/CompVis/stable-diffusion-license)のコピーをすべての利用者と共有する必要があることに注意してください。
 
--重みというのはモデルが保存されているファイルです。
+(補足:重みというのは画像生成モデルが保存されているファイルのことを指しています。)
 
 
 
