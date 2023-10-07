@@ -9,7 +9,8 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 + [生成した画像の例](#生成した画像の例)
 + [License](#ライセンス)
      + [ライセンスの要約](#ライセンスの要約)
-+ [Image_generation_methods](#Image_generation_methods) 
++ [Image_generation_methods](#Image_generation_methods)
++ [使用させていただいたもの](#使用させていただいたもの)
 + [謝辞](#謝辞)
 
 ##  使用方法<a name = "使用方法"></a>
@@ -60,6 +61,8 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 (補足:重みというのは画像生成モデルが保存されているファイルのことを指しています。)
 
+##  使用させていただいたもの<a name = "使用させていただいたもの"></a>
+[modified-euler-samplers-for-sonar-diffusers](https://github.com/alexblattner/modified-euler-samplers-for-sonar-diffusers)
 
 
 ## 謝辞<a name = "謝辞"></a>
