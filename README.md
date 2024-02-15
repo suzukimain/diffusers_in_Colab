@@ -27,15 +27,14 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 ##  生成した画像の例<a name = "画像の例"></a>
 
-![20230424_151947](https://github.com/suzukimain/image/assets/131413573/c9e45d4a-3e65-4d00-9958-15f5713884a0)
-![20230425_074924](https://github.com/suzukimain/image/assets/131413573/4cf3410a-99c5-4247-87eb-dd19535eb4e2)
-![20230425_074951](https://github.com/suzukimain/image/assets/131413573/a7248abc-3d19-45f0-b05a-1e9c665cc6a8)
-![20230425_074737](https://github.com/suzukimain/image/assets/131413573/9a3e2172-eed8-43f5-85d3-babbbbe01a90)
-![20230425_123446](https://github.com/suzukimain/image/assets/131413573/8df5793a-0eea-4179-8d54-946fb69d5a85)
-![20230425_122512](https://github.com/suzukimain/image/assets/131413573/ff577a7d-45e7-4844-aa98-4621a880278d)
-![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
-![20230425_074710](https://github.com/suzukimain/image/assets/131413573/d5d67630-e67d-4bff-ab4c-6771e0f01079)
+![IMG_2714](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/392ea5ef-26f1-437c-a3c9-662fc3436329)
 
+
+![IMG_2719](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/ac547878-d94e-49b4-9276-82a03ad165f7)
+
+![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
+
+※一部の画像は編集済みです
 
 ##  Image_generation_methods<a name = "Image_generation_methods"></a>
 ![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/d83a98bc-d3db-462d-8bde-9a142d9c369c)
