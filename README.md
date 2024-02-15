@@ -29,8 +29,8 @@ https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
 
 ![IMG_2714](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/392ea5ef-26f1-437c-a3c9-662fc3436329)
 
+![IMG_2719](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/7310b4fc-3fe8-49db-8cb9-64c943c5eff4)
 
-![IMG_2719](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/ac547878-d94e-49b4-9276-82a03ad165f7)
 
 ![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
 
