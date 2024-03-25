@@ -1,7 +1,7 @@
 # diffusers_in_Colab
 
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
-https://github.com/drkostas/COSC525-Project1/blob/master/LICENSE)
+https://github.com/suzukimain/diffusers_in_Colab/blob/main/LICENSE)
 
 >目次
 + [使用方法](#使用方法)
