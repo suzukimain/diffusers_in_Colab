@@ -26,10 +26,9 @@ https://github.com/suzukimain/diffusers_in_Colab/blob/main/LICENSE)
 
 ##  生成した画像の例<a name = "画像の例"></a>
 
+![IMG_1911](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/378d35bb-8b35-41b4-a7fd-c7b1f49ac962)
+
 ![IMG_2714](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/392ea5ef-26f1-437c-a3c9-662fc3436329)
-
-![IMG_2719](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/7310b4fc-3fe8-49db-8cb9-64c943c5eff4)
-
 
 ![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
 
