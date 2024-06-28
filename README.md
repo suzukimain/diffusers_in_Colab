@@ -8,7 +8,6 @@ https://github.com/suzukimain/diffusers_in_Colab/blob/main/LICENSE)
 + [プロジェクトの説明](#プロジェクトの説明)
 + [生成した画像の例](#生成した画像の例)
 + [License](#ライセンス)
-+ [Image_generation_methods](#Image_generation_methods)
 + [使用させていただいたもの](#使用させていただいたもの)
 + [謝辞](#謝辞)
 
@@ -33,10 +32,6 @@ https://github.com/suzukimain/diffusers_in_Colab/blob/main/LICENSE)
 ![20230425_074615](https://github.com/suzukimain/image/assets/131413573/4d97361b-268f-44b3-808e-0c036360d48f)
 
 ※一部の画像は編集済みです
-
-##  Image_generation_methods<a name = "Image_generation_methods"></a>
-![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/d83a98bc-d3db-462d-8bde-9a142d9c369c)
-![image](https://github.com/suzukimain/diffusers_in_Colab/assets/131413573/b728aac2-a2b3-468d-991e-6f37cfa6aef7)
 
 ## ライセンス<a name = "License"></a>
 [BSD-3-Clause license](LICENSE) に従います
