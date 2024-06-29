@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/suzukimain/diffusers_in_Colab/blob/main/LICENSE)
 
->目次
+>CONTENTS
 + [How to use](#How_to_use)
 + [Project Description](#Projec_Description)
 + [Example of generated image](#Example_of_generated_image)
