@@ -21,7 +21,7 @@ Tap the next button to open the notebook.
 * Running diffusers in GoogleColab
 * Learning personal programming
 
-The above two objectives are our goals.
+The above two objectives are my goals.
 
 ##  Example of generated image<a name = "Example_of_generated_image"></a>
 
@@ -42,6 +42,8 @@ In accordance with [BSD-3-Clause license](LICENSE)
 
 ## Acknowledgement<a name = "Acknowledgement"></a>
 
-I have used open source resources and free tools in the creation of this project. I would like to take this opportunity to thank the open source community and those who provided free tools.
+I have used open source resources and free tools in the creation of this project.
+
+I would like to take this opportunity to thank the open source community and those who provided free tools.
 
 
